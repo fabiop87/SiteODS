@@ -31,7 +31,7 @@ const odsContent = {
         </div>
       </div>
     </div>`,
-    image: "../img/1.png"
+    image: "../SiteODS/img/1.png"
   },
   "ods2": {
     title: "Fome Zero",
