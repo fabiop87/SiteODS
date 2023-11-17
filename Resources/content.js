@@ -65,7 +65,7 @@ const odsContent = {
         </div>
       </div>
     </div>`,
-    image: "../img/2.png"
+    image: "../SiteODS/img/2.png"
   },
   "ods3": {
     title: "Saúde e Bem-Estar",
@@ -118,7 +118,7 @@ const odsContent = {
         </div>
       </div>
     </div>`,
-    image: "../img/3.png"
+    image: "../SiteODS/img/3.png"
   },
   "ods4": {
     title: "Educação de Qualidade",
@@ -162,7 +162,7 @@ const odsContent = {
         </div>
       </div>
     </div>`,
-    image: "../img/4.png"
+    image: "../SiteODS/img/4.png"
   },
   "ods5": {
     title: "Igualdade de Gênero",
@@ -185,7 +185,7 @@ const odsContent = {
         </div>
       </div>
     </div>`,
-    image: "../img/5.png"
+    image: "../SiteODS/img/5.png"
   },
   "ods6": {
     title: "Água Limpa e Saneamento",
@@ -203,7 +203,7 @@ const odsContent = {
         </div>
       </div>
     </div>`,
-    image: "../img/6.png"
+    image: "../SiteODS/img/6.png"
   },
   "ods7": {
     title: "Energia Limpa",
@@ -222,7 +222,7 @@ const odsContent = {
         </div>
       </div>
     </div>`,
-    image: "../img/7.png"
+    image: "../SiteODS/img/7.png"
   },
   "ods8": {
     title: "Trabalho Decente e Crescimento Econômico",
@@ -248,7 +248,7 @@ const odsContent = {
         </div>
       </div>
     </div>`,
-    image: "../img/8.png"
+    image: "../SiteODS/img/8.png"
   },
   "ods9": {
     title: "Indústria, Inovação e Infraestrutura",
@@ -270,7 +270,7 @@ const odsContent = {
         </div>
       </div>
     </div>`,
-    image: "../img/9.png"
+    image: "../SiteODS/img/9.png"
   },
   "ods10": {
     title: "Redução das Desigualdades",
@@ -294,7 +294,7 @@ const odsContent = {
         </div>
       </div>
     </div>`,
-    image: "../img/10.png"
+    image: "../SiteODS/img/10.png"
   },
   "ods11": {
     title: "Cidades e Comunidades Sustentáveis",
@@ -318,7 +318,7 @@ const odsContent = {
         </div>
       </div>
     </div>`,
-    image: "../img/11.png"
+    image: "../SiteODS/img/11.png"
   },
   "ods12": {
     title: "Consumo Responsável",
@@ -343,7 +343,7 @@ const odsContent = {
         </div>
       </div>
     </div>`,
-    image: "../img/12.png"
+    image: "../SiteODS/img/12.png"
   },
   "ods13": {
     title: "Ação contra a Mudança Global do Clima",
@@ -362,7 +362,7 @@ const odsContent = {
           </div>
         </div>
       </div>`,
-    image: "../img/13.png"
+    image: "../SiteODS/img/13.png"
   },
   "ods14": {
     title: "Vida na Água",
@@ -386,7 +386,7 @@ const odsContent = {
         </div>
       </div>
     </div>`,
-    image: "../img/14.png"
+    image: "../SiteODS/img/14.png"
   },
   "ods15": {
     title: "Vida Terrestre",
@@ -412,7 +412,7 @@ const odsContent = {
         </div>
       </div>
     </div>`,
-    image: "../img/15.png"
+    image: "../SiteODS/img/15.png"
   },
   "ods16": {
     title: "Paz, Justiça e Instituições Eficazes",
@@ -438,7 +438,7 @@ const odsContent = {
         </div>
       </div>
     </div>`,
-    image: "../img/16.png"
+    image: "../SiteODS/img/16.png"
   },
   "ods17": {
     title: "Parcerias e Meios de Implementação",
@@ -500,7 +500,7 @@ const odsContent = {
         </div>
       </div>
     </div>`,
-    image: "../img/17.png"
+    image: "../SiteODS/img/17.png"
   }
 };
 
